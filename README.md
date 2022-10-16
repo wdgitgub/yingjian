@@ -2,6 +2,6 @@
 
 [超微台式电脑硬件设置](超微台式电脑硬件设置.md)
 
-[thinkpad x260硬件设置](thinkpad x260硬件设置.md)
+[thinkpadx260硬件设置](thinkpadx260硬件设置.md)
 
 [手机设置](手机设置.md)
